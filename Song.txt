@@ -5,7 +5,8 @@ Shield by shield
 1
 Staging  area example
 _____________________________________
-Third verce
+Third verce in master
+
 
 
 
