@@ -6,8 +6,12 @@ Shield by shield
 Tag
 After sword
 In feature1 after sword
+<<<<<<< HEAD
 =========== merged
 
+=======
+New change in future1
+>>>>>>> feature1
 
 
 
